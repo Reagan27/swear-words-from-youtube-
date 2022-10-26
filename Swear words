@@ -1,0 +1,12 @@
+Remove swear words from Video Transcription using Python 
+
+In 3 simple steps, swear words can be removed from the YouTube video transcript. 
+
+Check out the thread for all the steps 👇
+As I mentioned, this is a 3 steps process 
+
+1. Download YouTube video as MP3
+2. Upload MP3 to cloud to get the Audio URL
+3. Submit the Audio URL to get the profanity-filtered transcription
+
+I've used this NetFlix trailer to remove the Swear words
